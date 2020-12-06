@@ -1,0 +1,19 @@
+h1{
+    color:"orange"
+}
+*{
+    border: thin;
+   
+}
+.header{
+    background-color: rgb(0, 217, 255);
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.menu{
+    justify-content: space-evenly;
+}
